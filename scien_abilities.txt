@@ -1,4 +1,7 @@
 Name: Scien Aonar
+Class: Druid
+Lvl: 1 
+
 Ability scores:    Modifiers:    Saves:
 Str: 10            +0            +0
 Dex: 14            +2            +2
