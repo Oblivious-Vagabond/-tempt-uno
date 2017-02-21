@@ -1,7 +1,8 @@
 Name: Scien Aonar
-Str: 10
-Dex: 14
-Con: 12
-Int: 14
-Wis: 16
-Cha: 10
+Ability scores:    Modifiers:    Saves:
+Str: 10            +0            +0
+Dex: 14            +2            +2
+Con: 12            +1            +1
+Int: 14            +2            +4
+Wis: 16            +3            +5
+Cha: 10            +0            +0
