@@ -1,0 +1,7 @@
+Name: Scien Aonar
+Str: 10
+Dex: 14
+Con: 12
+Int: 14
+Wis: 16
+Cha: 10
